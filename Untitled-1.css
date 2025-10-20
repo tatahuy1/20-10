@@ -137,7 +137,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #6bf0ff;
+  background-color: #a7ffee;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -991,5 +991,6 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
 
 /*# sourceMappingURL=style.css.map */
